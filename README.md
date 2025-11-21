@@ -1,6 +1,6 @@
-# ALINT-PRO VSCode Extension
+# ALINT-PRO VS Code Extension
 
-An ALINT-PRO integration for VSCode.
+An ALINT-PRO integration for Visual Studio Code.
 
 ## Features
 
@@ -43,4 +43,4 @@ To build the extension, see the [BUILDING.md](./BUILDING.md) file.
 
 ### 1.0.0
 
-Initial release of ALINT-PRO VSCode Extension.
+Initial release of ALINT-PRO VS Code Extension.
