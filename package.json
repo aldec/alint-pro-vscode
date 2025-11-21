@@ -5,7 +5,7 @@
   "description": "Integration with ALINT-PRO",
   "version": "1.0.0",
   "license": "Apache-2.0",
-  "icon": "icon.png",
+  "icon": "res/icon.png",
   "repository": "https://github.com/aldec/alint-pro-vscode",
   "engines": {
     "vscode": "^1.100.0"
