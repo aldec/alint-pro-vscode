@@ -13,6 +13,24 @@
   "categories": [
     "Linters"
   ],
+  "keywords": [
+    "ASIC",
+    "Bug",
+    "Bugs",
+    "Code Analysis",
+    "Code Quality",
+    "FPGA",
+    "HDL",
+    "Lint",
+    "Linter",
+    "Security",
+    "SystemVerilog",
+    "Tcl",
+    "Verilog",
+    "VHDL",
+    "Vulnerabilities",
+    "Vulnerability"
+  ],
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
