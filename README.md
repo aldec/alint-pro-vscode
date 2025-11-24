@@ -41,6 +41,11 @@ To build the extension, see the [BUILDING.md](./BUILDING.md) file.
 
 ## Release Notes
 
+### 1.0.1
+
+Minor README.md improvements and more keywords/tags so the extension is easier
+to find.
+
 ### 1.0.0
 
 Initial release of ALINT-PRO VS Code Extension.

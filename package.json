@@ -3,7 +3,7 @@
   "publisher": "aldec",
   "displayName": "ALINT-PRO",
   "description": "Integration with ALINT-PRO",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Apache-2.0",
   "icon": "res/icon.png",
   "repository": "https://github.com/aldec/alint-pro-vscode",
