@@ -3,5 +3,5 @@
 
 !.vscodeignore
 !LICENSE
-!icon.png
 !dist/extension.js
+!res/icon.png
